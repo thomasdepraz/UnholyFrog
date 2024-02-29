@@ -12,6 +12,9 @@ The Feature would work as follow:
 3. Move by making small leaps in input direction (Air Control ?)
 4. Ground are object with a collider and a tag that considers them as "Ground"
 
+### Camera Grounded Movement Behavior TBD
+TBD
+
 ## Aerial Movement
 To enter the Aerial Movement State, the player has to first interact with a "Lotus" LD element. [(Reference)](https://youtu.be/suaZBXdQnTo?t=18)
 
